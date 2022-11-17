@@ -1,2 +1,1 @@
-
-sjdjbcjshhh
+git branch -d community_analysis
